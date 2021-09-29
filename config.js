@@ -4,7 +4,7 @@ noddityConfig = {
 	editLink: '',
 	logo: 'logo.svg',
 	errorPage: '404.md',
-	pathPrefix: '',
+	pathPrefix: '#!/',
 	pagePathPrefix: 'post/',
 	template: 'post',
 	debug: false
